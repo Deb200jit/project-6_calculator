@@ -1,0 +1,39 @@
+h2{
+    text-align: center;
+}
+
+.container{
+    /* background-color: rgb(244, 227, 206); */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+}
+
+.button{
+    padding: 24px;
+    margin:0 4px;
+    width: 24px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    color: black;
+    font-size: 15px;
+    background-color: rgb(232, 123, 226);
+    box-shadow: 0px 1px 10px 4px rgb(224, 152, 17);
+}
+
+
+.input{
+    padding: 15px;
+    margin: 0;
+    border: 2px solid black;
+    border-radius: 6px;
+    font-size: 18px;
+    width: 215px;
+    background-color: rgb(235, 235, 62);
+}
+
+.row{
+    margin:3px 12px;
+}
